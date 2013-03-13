@@ -1,0 +1,16 @@
+{
+  "name": "yo",
+  "description": "yo",
+  "homepage": "http://yo.org",
+  "author": "yo",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.1.3"
+  },
+  "scripts": {},
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.1.3"
+  }
+}

@@ -2,5 +2,11 @@
 define([], function () {
     'use strict';
 
-    return '\'Allo \'Allo!';
+    var myapp = {
+        init: function() {
+            return 'myapp.init();';
+        }
+    }
+
+    return myapp.init();
 });
